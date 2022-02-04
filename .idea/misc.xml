@@ -3,11 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/New folder/loginform/app/src/main/res/drawable/radio_normal.xml" value="0.1875" />
+        <entry key="..\:/New folder/loginform/app/src/main/res/drawable/radio_selected.xml" value="0.1875" />
+        <entry key="..\:/New folder/loginform/app/src/main/res/drawable/radio_selector.xml" value="0.1875" />
+        <entry key="..\:/New folder/loginform/app/src/main/res/drawable/text_color.xml" value="0.1875" />
         <entry key="..\:/New folder/loginform/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
         <entry key="..\:/New folder/loginform/app/src/main/res/layout/material_login.xml" value="0.17074275362318841" />
         <entry key="..\:/New folder/loginform/app/src/main/res/layout/material_register.xml" value="0.17074275362318841" />
         <entry key="..\:/New folder/loginform/app/src/main/res/layout/new_layout.xml" value="0.17074275362318841" />
         <entry key="..\:/New folder/loginform/app/src/main/res/layout/new_matrial.xml" value="0.17074275362318841" />
+        <entry key="..\:/New folder/loginform/app/src/main/res/layout/radio_button.xml" value="0.17074275362318841" />
       </map>
     </option>
   </component>
