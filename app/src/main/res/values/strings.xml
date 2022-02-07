@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">loginform</string>
+
+    <!-- Project level resources -->
+    <string name="app_name">Sketch UX Kit</string>
+
+    <!-- Resources for Bank2LogInActivity -->
+    <string name="don_t_have_an_account_sign_up">Don't have an account? Sign Up</string>
+    <string name="welcom_back_log_in_to_continue_with_ronnystudio_ui_for_android">Welcom back. Log in to continue with ronnystudio UI for android.</string>
+    <string name="welcome_back_log_in_to_continue_with_ui_for_android" />
 </resources>
